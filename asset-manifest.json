@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://skawashi.github.io/csb-c00ln/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://skawashi.github.io/csb-c00ln/static/js/main.de9f6c1d.chunk.js",
+    "main.js.map": "https://skawashi.github.io/csb-c00ln/static/js/main.de9f6c1d.chunk.js.map",
+    "runtime-main.js": "https://skawashi.github.io/csb-c00ln/static/js/runtime-main.49aa5ba7.js",
+    "runtime-main.js.map": "https://skawashi.github.io/csb-c00ln/static/js/runtime-main.49aa5ba7.js.map",
+    "static/js/2.54ede9ef.chunk.js": "https://skawashi.github.io/csb-c00ln/static/js/2.54ede9ef.chunk.js",
+    "static/js/2.54ede9ef.chunk.js.map": "https://skawashi.github.io/csb-c00ln/static/js/2.54ede9ef.chunk.js.map",
+    "index.html": "https://skawashi.github.io/csb-c00ln/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://skawashi.github.io/csb-c00ln/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.54ede9ef.chunk.js.LICENSE.txt": "https://skawashi.github.io/csb-c00ln/static/js/2.54ede9ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49aa5ba7.js",
+    "static/js/2.54ede9ef.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.de9f6c1d.chunk.js"
+  ]
+}
